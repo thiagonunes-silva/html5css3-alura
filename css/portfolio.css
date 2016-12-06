@@ -1,0 +1,13 @@
+.area-projeto{
+	border: 8px solid #000;
+	background-color: #FAFFFC;
+	float: left;
+	width: 45%;
+	margin: 16px;
+	padding: 16px;
+	box-sizing: border-box;
+}
+
+.imagem-projeto{
+	width: 100%;
+}
